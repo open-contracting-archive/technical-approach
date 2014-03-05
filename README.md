@@ -1,4 +1,6 @@
-# OpenContracting
+# OpenContracting Technical Scoping
+
+Draft 1 by [Jeni Tennison](https://twitter.com/jenit). Updated 2nd March 2014. Join the discussion in the [Open Contracting Data Standard community](http://open-contracting.github.io). 
 
 ## Background
 
